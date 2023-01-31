@@ -27,4 +27,4 @@ Clone the repository to your local machine
 Navigate to the project directory in the terminal/command prompt
 
 Author
-Your name here.
+A. Sai Prashanth.
