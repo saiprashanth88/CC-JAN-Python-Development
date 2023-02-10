@@ -1,6 +1,6 @@
 # CC-JAN-Python-Development
 Python Project Readme
-Random PAssword Generator
+Random Password Generator
 A simple Python program that generates random passwords using the secrets module and Tkinter GUI.
 
 Features
